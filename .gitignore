@@ -33,3 +33,6 @@ metals.sbt
 
 # Python venv
 venv/
+
+# Scala
+.ammonite/
